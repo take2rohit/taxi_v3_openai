@@ -59,7 +59,6 @@ There is a reward of -1 for each action and an additional reward of +20 for deli
 
 state space is represented by:
     (taxi_row, taxi_col, passenger_location, destination)
-"""
 
 Please refer for more info:
 
