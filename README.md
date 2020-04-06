@@ -8,7 +8,7 @@ This problem was solved using Q-Learning Approach. Here the driver picks up a cu
 ## Analysis
     - Number of Episodes: 5000
     - Best average reward(For 100 episodes): 8.57
-    - [OpenAI-Leaderboard](https://github.com/openai/gym/wiki/Leaderboard)
+[OpenAI-Leaderboard](https://github.com/openai/gym/wiki/Leaderboard)
 
 
 ## MAP:
